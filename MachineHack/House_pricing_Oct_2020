@@ -1,1 +1,3 @@
-Abcocme
+https://www.machinehack.com/hackathons/house_price_prediction_beat_the_benchmark/overview
+
+Use of TensorFlow's estimator API to build a deep neural network using DNNRegressor to predict house prices.
